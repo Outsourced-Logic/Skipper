@@ -87,9 +87,7 @@ setInterval(clickElement, 1000); // run the clickElement function every 1000 mil
 
 <h1>Import Skipper as a Chrome browser extension</h1>
 
-This extension is only supported in the developer version of Firefox while we work to resolve technical issues impacting the retail version of Firefox.
-
-To use Skipper in Firefox, please refer to the demo above.
+This extension is only supported in the developer version of Firefox while we work to resolve technical issues impacting the retail version of Firefox. To use Skipper in Firefox, please refer to the demo above.
 
 1. Download Skipper.zip
 2. Unzip the file into a new folder titled 'Skipper'
