@@ -3,7 +3,7 @@
 ![Alt text](/SkipperBanner.png "Title")
 
 <h1>Developer notes</h1>
-This is my first Github project and a majority of the code was generated with pre-trained GPT-4 model as a personal learning exersise. If this repository and code are not properly optimized, feel free to log an issue reccomending changes.
+This is my first Github project and a majority of the code was generated with pre-trained GPT-4 model as a personal learning exersise. If this repository or code are not properly optimized, feel free to log an issue reccomending changes.
 
 <h1>What is Skipper?</h1>
 
