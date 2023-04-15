@@ -2,21 +2,39 @@
 
 ![Alt text](/SkipperBanner.png "Title")
 
-Do you listen to passive audio on YouTube, like podcasts? 
+<h1>What is Skipper?</h1>
 
-Do you commonly have videos on in the background while you do other things?
+Skipper is an open-source and creator friendly browser extension that automatically skips ads on YouTube when the 'skip ad' button is present.
 
-Do you deal with constant interruptions from advertisements that are 5 minutes long and feature some guy trying to sell you on their get-rich-quick courses that require you to manually skip them after 5 seconds because the thought of paying for a YouTube Premium subscription gives you a nostalgia driven exestential crisis? 
+Do you listen to passive audio on YouTube, like podcasts or streams? 
+
+Do you commonly have videos on in the background?
+
+Do you deal with constant interruptions from advertisements that are 5 minutes long and require you to manually skip them after 5 seconds?
+
+Are you avoiding YouTube Premium because the thought of adding another subscription to your monthly budget gives you existential fatigue?
 
 Skipper might be for you.
 
-Other extensions are a mess! Some hide basic functionality behind a paywall, most aren't open source and the few that are open-source use a suspiciously large amount of files or have been been abandoned for the last 5 years and are now outdated. Skipper can be deployed using under 45 lines of code contained in a .js file, a .json file (and some icons)
+<h1>Why Skipper?</h1>
 
-<h1>What is Skipper?</h1>
+Skipper was created as a personal solution after I was unable to find a solution that I felt comfortable with.
 
-Skipper is an open-source and creator friendlybrowser extension that automatically skips ads on YouTube when the 'skip ad' button is present.
+Other extensions and projects have significant issues such as:
 
-<h1>How does it work?</h1>
+* They're ad-blockers; this takes ad revenue from creators and is directly against the YouTube Terms of Service agreement. Using ad-blockers on YouTube could lead to you're account being banned, especially after the release of YouTube's ad-free upgrade "YouTube Premium". Skipper does not have this risk, as Skipper is an accesiblity tool that does not violate YouTube's Terms of Serivce.
+
+* Hiding basic functionality behind a paywall.
+
+* Non-credible developers that do not provide additonal cedibility through legitimate and traceable branding or transparency through open-source code.
+
+* Poor online reviews.
+
+* General lack of support/functionality.
+
+They are open-source projects but they use a suspiciously large amount of files and code, while Skipper can be deployed using 3 .png images and approx. 45 lines of code contained in a single .js file and a .json file.
+
+<h1>Check out the demo</h1>
 
 This script displayed in the code block below is the heart of Skipper! If you'd like to demo it before downloading, just follow these steps:
 
@@ -46,3 +64,11 @@ function clickElement() {
 setInterval(clickElement, 1000); // run the clickElement function every 1000 milliseconds (1 seconds)
 
 </pre>
+
+<h1>Import Skipper as a browser extension</h1>
+
+1.
+2.
+3.
+4.
+5.
