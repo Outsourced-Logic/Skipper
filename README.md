@@ -18,28 +18,33 @@ Skipper might be for you.
 
 <h1>Why Skipper?</h1>
 
-Skipper was created as a personal solution after I was unable to find a solution that I felt comfortable with.
+Skipper was created as a personal solution after I was unable to find a ad-management extension that I felt comfortable using.
 
 Every solution I was able to find had one or multiple of the following issues:
 
-* They're ad-blockers! This takes ad revenue from creators and is directly against the YouTube Terms of Service agreement.
+* **They're ad-blockers! This takes ad revenue from creators and is directly against the YouTube Terms of Service agreement.**
 
-**YouTube has clearly stated that using ad-blockers on YouTube could lead to your account being banned**
+    **YouTube has clearly stated that using ad-blockers on YouTube could lead to your account being banned**
 
-This is *especially* true after the release of YouTube's ad-free upgrade "YouTube Premium". 
+    This is *especially* true after the release of YouTube's ad-free upgrade "YouTube Premium". 
 
-Skipper *does not* have this risk, as Skipper is an accesiblity tool that does not violate YouTube's Terms of Serivce.
+    Skipper *does not* have this risk, as Skipper is an accesiblity tool that does not violate YouTube's Terms of Serivce.
 
-* Hiding basic functionality behind a paywall.
+* **Hiding basic functionality behind a paywall.**
 
-* Non-credible developers that do not provide additonal cedibility through legitimate and traceable branding or transparency through open-source code.
+    When looking through the available extensions, I discovered a trend of developers putting low quality extensions behind paywalls and UI that displays pointless         metrics, before abandoning the project. 
+    
+    It's not clear how these extensions handle your payment information, if the software is safe to download and if the extension is even functional.
 
-* Poor online reviews.
+* **Poor online review due to a general lack of support/functionality.**
 
-* General lack of support/functionality.
+    Many extensions have a significant history of reviews complaining about inconsistent functionality with limited responses from the developer.
 
-* They're open-source projects but they use a suspiciously large amount of files and code, while Skipper can be deployed using 3 .png images and approx. 45 lines of code contained in a single .js file and a .json file.
-
+* **Non-credible developers that do not provide additonal cedibility through legitimate and traceable branding or transparency through open-source code.**
+    
+    Many of the other open source extensions available commonly use a suspiciously large amount of files and code, while Skipper can be deployed using 3 .png images
+    for icons and approx. 45 lines of code contained in a single .js file and a .json file
+    
 <h1>Check out the demo</h1>
 
 This script displayed in the code block below is the heart of Skipper! If you'd like to demo it before downloading, just follow these steps:
