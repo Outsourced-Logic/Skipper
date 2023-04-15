@@ -16,9 +16,9 @@ This is the script that runs Skipper! If you'd like to demo it before downloadin
 4. Copy the script below
 5. Paste into the console
 6. Press enter
-7. Play a video
-
-Skipper will now search The Seven Seas for the skip button.
+7. Close the console with F12 or with the little 'x' below the top right corner
+7. Play any video
+8. Skipper will now search The Seven Seas for the skip button.
 
 <h3> Demo script </h3>
 
