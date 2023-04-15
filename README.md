@@ -13,7 +13,7 @@ This is the script that runs Skipper! If you'd like to demo it before downloadin
 1. Open up a Firefox or Chrome browser window
 2. Navigate to Youtube
 3. Press CTRL+SHIFT+J to open the developer console
-4. Copy the script below
+4. Copy the demo script below
 5. Paste into the console
 6. Press enter
 7. Close the console with F12 or with the little 'x' below the top right corner
