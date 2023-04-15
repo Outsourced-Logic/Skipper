@@ -20,9 +20,15 @@ Skipper might be for you.
 
 Skipper was created as a personal solution after I was unable to find a solution that I felt comfortable with.
 
-Other extensions and projects have significant issues such as:
+Every solution I was able to find had one or multiple of the following issues:
 
-* They're ad-blockers; this takes ad revenue from creators and is directly against the YouTube Terms of Service agreement. Using ad-blockers on YouTube could lead to you're account being banned, especially after the release of YouTube's ad-free upgrade "YouTube Premium". Skipper does not have this risk, as Skipper is an accesiblity tool that does not violate YouTube's Terms of Serivce.
+* They're ad-blockers! This takes ad revenue from creators and is directly against the YouTube Terms of Service agreement.
+
+**YouTube has clearly stated that using ad-blockers on YouTube could lead to your account being banned**
+
+This is *especially* true after the release of YouTube's ad-free upgrade "YouTube Premium". 
+
+Skipper *does not* have this risk, as Skipper is an accesiblity tool that does not violate YouTube's Terms of Serivce.
 
 * Hiding basic functionality behind a paywall.
 
@@ -32,7 +38,7 @@ Other extensions and projects have significant issues such as:
 
 * General lack of support/functionality.
 
-They are open-source projects but they use a suspiciously large amount of files and code, while Skipper can be deployed using 3 .png images and approx. 45 lines of code contained in a single .js file and a .json file.
+* They're open-source projects but they use a suspiciously large amount of files and code, while Skipper can be deployed using 3 .png images and approx. 45 lines of code contained in a single .js file and a .json file.
 
 <h1>Check out the demo</h1>
 
