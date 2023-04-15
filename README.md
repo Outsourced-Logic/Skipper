@@ -2,6 +2,9 @@
 
 ![Alt text](/SkipperBanner.png "Title")
 
+<h1>Developer notes</h1>
+This is my first Github project and a majority of the code was generated with GPT-4 as a learning exersise. If this repro and code are not properly optimized, feel free to log an issue reccomending changes.
+
 <h1>What is Skipper?</h1>
 
 Skipper is an open-source and creator friendly browser extension that automatically skips ads on YouTube when the 'skip ad' button is present.
