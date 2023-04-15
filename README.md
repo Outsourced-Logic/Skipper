@@ -44,7 +44,7 @@ Every solution I was able to find had one or multiple of the following issues:
 
     Skipper was designed to have high-resiliency and has been tested privately for over 40 hours prior to being released publicly.
     
-    Additonally, Skipper was created by a one person and GPT-4 with the intention of using this project in future resumes; a inconsistently functional extension with       poor user support would look terrible!
+    Additonally, Skipper was created by a one person with the intention of using this project in future resumes. An inconsistently functional project with poor             user support doesn't scream "accountability" so please report any issues you encounter here on Github and I'll get it fixed ASAP!
     
 * **Non-credible developers that do not provide additonal cedibility through legitimate and traceable branding or transparency through open-source code.**
     
