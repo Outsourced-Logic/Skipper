@@ -179,7 +179,9 @@
    
    LICENSE
    
-   This file is part of "Skipper", an open-source and creator friendly browser extension that automatically skips ads on YouTube by searching for the "Skip ad" button and interacting with the "Skip ad" button when it's present.
+   This file is part of "Skipper", an open-source and creator friendly browser
+   extension that automatically skips ads on YouTube by searching for the "Skip ad"
+   button and interacting with the "Skip ad" button when it's present.
    
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
