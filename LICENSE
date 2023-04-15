@@ -177,9 +177,9 @@
 
    Copyright 2023, Outsourced-Logic
    
-   manifest.json
+   LICENSE.md
    
-   This file is part of "Skipper" a (explain the tool)
+   This file is part of "Skipper", an open-source and creator friendly browser extension that automatically skips ads on YouTube by searching for the "Skip ad" button    and interacting with the "Skip ad" button when it's present.
    
    "Skipper" is licensed under the BSD 3-Clause License and the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with both License.
