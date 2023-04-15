@@ -34,7 +34,9 @@ Every solution I was able to find had one or multiple of the following issues:
 
     When looking through the available extensions, I discovered a trend of developers putting low quality extensions behind paywalls and UI that displays pointless         metrics, before abandoning the project. 
     
-    It's not clear how these extensions handle your payment information, if the software is safe to download and if the extension is even functional.
+    It's not clear how these extensions handle your payment information, if the software is safe to download and if the extension is even functional, prior to             downloading potentially malicious files.
+    
+    Skipper will *always* be open-source and will *always* have a fully functional free version
 
 * **Poor online review due to a general lack of support/functionality.**
 
@@ -56,8 +58,10 @@ This script displayed in the code block below is the heart of Skipper! If you'd 
 5. Paste into the console
 6. Press enter
 7. Close the console with F12 or with the little 'x' below the top right corner
-7. Play any video
-8. Skipper will now search The Seven Seas for the skip button.
+8. Play any video
+9. Skipper will now search The Seven Seas for the skip button.
+
+Note: The Skipper demo will stop running when the user navigates away from the page that the script was launched on; this is a limitation of the demo only.
 
 <h3> Demo script </h3>
 
