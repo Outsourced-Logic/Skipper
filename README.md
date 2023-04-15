@@ -25,13 +25,15 @@ Skipper was created as a personal solution after I was unable to find a ad-manag
 
 Every solution I was able to find had one or multiple of the following issues:
 
-* **They're ad-blockers! This takes ad revenue from creators and is directly against the YouTube Terms of Service agreement.**
+* **They're ad-blockers!**
 
-    **YouTube has clearly stated that using ad-blockers on YouTube could lead to your account being banned**
+   This takes ad revenue from creators and is directly against the YouTube Terms of Service agreement.
+
+    **YouTube has clearly stated that using ad-blockers on YouTube could lead to your account being banned!**
 
     This is *especially* true after the release of YouTube's ad-free upgrade "YouTube Premium". 
 
-    Skipper *does not* have this risk, as Skipper is an accesiblity tool that does not violate YouTube's Terms of Serivce.
+    Skipper does not have this risk, as Skipper is an accesiblity tool that does not violate YouTube's Terms of Serivce.
 
 * **Hiding basic functionality behind a paywall.**
 
