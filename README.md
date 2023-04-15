@@ -8,7 +8,7 @@ Skipper is an open-source and creator friendly browser extension that automatica
 
 <h1>How does it work?</h1>
 
-This is the script that runs Skipper! If you'd like to demo it before downloading, just follow these steps!
+This script displayed in the code block below is the heart of Skipper! If you'd like to demo it before downloading, just follow these steps:
 
 1. Open up a Firefox or Chrome browser window
 2. Navigate to Youtube
