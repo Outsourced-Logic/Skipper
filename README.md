@@ -66,7 +66,7 @@ This script displayed in the code block below is the heart of Skipper! If you'd 
 8. Play any video
 9. Skipper will now search The Seven Seas for the skip button.
 
-Note: The Skipper demo will stop running when the user navigates away from the page that the script was launched on; this is a limitation of the demo only.
+Note: The Skipper demo will stop running when the user navigates away from the page that the script was launched on; this is a limitation of the demo and will not occur with the downloaded extension, as Chrome Developer Console does not have built-in memory between sessions. If the Skipper Demo stops working, simply open the developer console and input the script provided above.
 
 <h3> Demo script </h3>
 
@@ -85,10 +85,16 @@ setInterval(clickElement, 1000); // run the clickElement function every 1000 mil
 
 </pre>
 
-<h1>Import Skipper as a browser extension</h1>
+<h1>Import Skipper as a Chrome browser extension</h1>
 
-1.
-2.
-3.
-4.
-5.
+This extension is only supported in the developer version of Firefox while we work to resolve technical issues impacting the retail version of the FireFox extension.
+
+To use Skipper in the retail version of Firefox, please refer to the demo above.
+
+1. Download Skipper.zip
+2. Unzip the file into a new folder titled 'Skipper'
+3. Navigate to the extension manaegment screen of your browser (chrome://extensions/)
+4. Click 'Load unpacked'
+5. Select the unzipped 'Skipper' file
+
+Skipper is now ready to search The Seven Seas for 'skip ad' buttons.
