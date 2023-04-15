@@ -2,9 +2,19 @@
 
 ![Alt text](/SkipperBanner.png "Title")
 
+Do you listen to passive audio on YouTube, like podcasts? 
+
+Do you commonly have videos on in the background while you do other things?
+
+Do you deal with constant interruptions from advertisements that are 5 minutes long and feature some guy trying to sell you on their get-rich-quick courses that require you to manually skip them after 5 seconds because the thought of paying for a YouTube Premium subscription gives you a nostalgia driven exestential crisis? 
+
+Skipper might be for you.
+
+Other extensions are a mess! Some hide basic functionality behind a paywall, most aren't open source and the few that are open-source use a suspiciously large amount of files or have been been abandoned for the last 5 years and are now outdated. Skipper can be deployed using under 45 lines of code contained in a .js file, a .json file (and some icons)
+
 <h1>What is Skipper?</h1>
 
-Skipper is an open-source and creator friendly browser extension that automatically skips ads on YouTube when the 'skip ad' button is present.
+Skipper is an open-source and creator friendlybrowser extension that automatically skips ads on YouTube when the 'skip ad' button is present.
 
 <h1>How does it work?</h1>
 
