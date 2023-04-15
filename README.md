@@ -36,12 +36,14 @@ Every solution I was able to find had one or multiple of the following issues:
     
     It's not clear how these extensions handle your payment information, if the software is safe to download and if the extension is even functional, prior to             downloading potentially malicious files.
     
-    Skipper will *always* be open-source and will *always* have a fully functional free version
+    Skipper will *always* be open-source and will *always* have a fully functional free version, although it is highly likely that Skipper will never have a paid           version, as monatizing this project may prove to be a headache. 
 
 * **Poor online review due to a general lack of support/functionality.**
 
     Many extensions have a significant history of reviews complaining about inconsistent functionality with limited responses from the developer.
 
+    Skipper was designed to have high-resiliency and has been tested privately for over 40 hours prior to being released publicly. Additonally, Skipper was created by     a one person team with the intention of using this project in future resumes; a inconsistently functional extension with poor support would look terrible!
+    
 * **Non-credible developers that do not provide additonal cedibility through legitimate and traceable branding or transparency through open-source code.**
     
     Many of the other open source extensions available commonly use a suspiciously large amount of files and code, while Skipper can be deployed using 3 .png images
