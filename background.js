@@ -30,7 +30,7 @@
                 } else {
                   // Log a message if the element is not found
                   console.log(
-                    "Skipper is searching The Seven Seas for the 'Skip' button"
+                    "Skipper is searching The Seven Seas for the 'Skip' button ⛵"
                   );
                 }
               }
