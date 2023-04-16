@@ -3,7 +3,7 @@
 ![Alt text](Icons/SkipperBanner.png "Title")
 
 <h1>Developer notes</h1>
-This is my first Github project and a majority of the code was generated with pre-trained GPT-4 model as a personal learning exersise. If this repository or code are not properly optimized, feel free to log an issue reccomending changes.
+This is my first Github project and a majority of the code was generated with pre-trained GPT-4 model as a personal learning exercise. If this repository or code are not properly optimized, feel free to log an issue recommending changes.
 
 <h1>What is Skipper?</h1>
 
@@ -33,7 +33,7 @@ Every solution I was able to find had one or multiple of the following issues:
 
     This is *especially* true after the release of YouTube's ad-free upgrade "YouTube Premium". 
 
-    Skipper does not have this risk, as Skipper is an accesiblity tool that does not violate YouTube's Terms of Serivce.
+    Skipper does not have this risk, as Skipper is an accessibility tool that does not violate YouTube's Terms of Service.
 
 * **Hiding basic functionality behind a paywall.**
 
@@ -41,7 +41,7 @@ Every solution I was able to find had one or multiple of the following issues:
     
     It's not clear how these extensions handle your payment information, if the software is safe to download and if the extension is even functional, prior to             downloading potentially malicious files.
     
-    Skipper will *always* be open-source and will *always* have a fully functional free version, although it is highly likely that Skipper will never have a paid           version, as monatizing this project may prove to be a headache. 
+    Skipper will *always* be open-source and will *always* have a fully functional free version, although it is highly likely that Skipper will never have a paid           version, as monetizing this project may prove to be a headache. 
 
 * **Poor online review due to a general lack of support/functionality.**
 
@@ -49,9 +49,9 @@ Every solution I was able to find had one or multiple of the following issues:
 
     Skipper was designed to have high-resiliency and has been tested privately for over 40 hours prior to being released publicly.
     
-    Additonally, Skipper was created by a one person with the intention of using this project in future resumes. An inconsistently functional project with poor             user support doesn't scream "accountability" so please report any issues you encounter here on Github and I'll get it fixed ASAP!
+    Additionally, Skipper was created by a one person with the intention of using this project in future resumes. An inconsistently functional project with poor             user support doesn't scream "accountability" so please report any issues you encounter here on Github and I'll get it fixed ASAP!
     
-* **Non-credible developers that do not provide additonal cedibility through legitimate and traceable branding or transparency through open-source code.**
+* **Non-credible developers that do not provide additional credibility through legitimate and traceable branding or transparency through open-source code.**
     
     Many of the other open source extensions available commonly use a suspiciously large amount of files and code.
 
@@ -96,7 +96,7 @@ This extension is only supported in the developer version of Firefox while we wo
 
 1. Download Skipper.zip
 2. Unzip the file into a new folder titled 'Skipper'
-3. Navigate to the extension manaegment screen of your browser (chrome://extensions/)
+3. Navigate to the extension management screen of your browser (chrome://extensions/)
 4. Click 'Load unpacked'
 5. Select the unzipped 'Skipper' file
 
