@@ -17,7 +17,7 @@ chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
                     element.click();
                 } else {
                     // Log a message if the element is not found
-                    console.log("Skipper is searching The Seven Seas for the 'Skip' button");
+                    console.log("Skipper is searching The Seven Seas for the 'Skip' button ⛵");
                 }
             }
             
