@@ -14,12 +14,6 @@
     "background": {
         "service_worker": "background.js"
     },
-    "content_scripts": [
-        {
-            "matches": ["https://www.youtube.com/*"],
-            "js": ["content_script.js"]
-        }
-    ],
     "icons": {
         "16": "skipper16.png",
         "48": "skipper48.png",
