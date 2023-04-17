@@ -11,37 +11,39 @@ If this repository or my code is not properly optimized, feel free to log an iss
 
 Skipper is an open-source and creator-friendly browser extension that automatically interacts with 'skip ad' buttons when they are present on a website. This enhances accessibility on platforms like YouTube by allowing users with disibilities to minimize repetitive manual interaction with their device.
 
-Skipper is not designed, intended, or marketed as an ad-blocker or ad-avoidance extension of any kind. 
+Skipper is not designed, intended, or marketed as an ad-blocker or ad-avoidance software of any kind. 
 
 In the future, we plan to increase our website support and add additonal accessiblity features to Skipper; this is just the start!
 
 <h1>Why Skipper?</h1>
 
-Skipper was developed in response to the lack of suitable ad-management extensions that met my personal needs and expectations. After doing some research, I found a gap in the functionality of common accesibility software and realized that there was potentially a need for a proper extension
+Skipper was developed in response to the lack of suitable ad-management extensions that met my personal needs and expectations. After doing some research, I found a gap in the functionality of common accesibility software that many people used ad-blockers to fix, although this brings a new handful of issues with it!
 
 With this in mind, Skipper aims to tackle various common issues found in existing options by implementing solutions to these issues in our core design.
 
-<h3>Supports creators</h3>
+<h3>Skipper supports creators</h3>
 
 Unlike ad-blockers that take ad revenue from creators and violate the YouTube Terms of Service, Skipper is an accessibility extension that interacts with websites using your browser's built-in features, the same way a normal user would; this ensures that the website, advertisers and creators are not negatively impacted.
 
-<h3>Free and open-source</h3>
+<h3>Skipper is free and open-source</h3>
+
+The other extensions on the market cost money or trick you into downloading them before asking you to pay for basic functionality, while offering very little in return. Additonally, it's unclear if this software is safe to download, as the publishers do not have a credible brand and the software is not open-source.
 
 Skipper is committed to always being open-source and having a fully functional free version. This eliminates concerns related to handling of payment information, the safety of software downloads, and the functionality of the extension before downloading.
 
-<h3>Reliability and support</h3>
+<h3>Skipper is reliable and supported</h3>
 
-Skipper is designed with reliability in mind and has been privately tested for over 100 hours before public release. Our small team of beta testers continues to evaluate its performance daily and will strive to adapt our testing around user feedback.
+Skipper is designed with reliability in mind and has been privately tested for over 100 hours before public release. Our small team of beta testers continues to evaluate its performance daily and will strive to adapt our testing and development around user feedback.
 
-<h3>Simple and easy to use</h3>
+<h3>Skipper is simple and easy to use</h3>
 
 Skipper is designed with simplicity in mind, helping users avoid the common problems of outdated or suspicious software that is commonly found in similar extensions.
 
-We're focused on creating a user-friendly approach that does not require extra downloads or complicated steps to set up. This makes it an ideal choice for anyone who is looking for a freee, efficient and easy-to-use solution to enhance their media experiences.
+That's why we're focused on creating a user-friendly approach that does not require extra downloads or complicated setup.
 
-<h1>Check out the demo</h1>
+<h1>Check out the deemo!</h1>
 
-To demo Skipper before downloading, follow these steps:
+To demo Skipper locally before downloading, follow these steps:
 
 1. Open up a Firefox or Chrome browser window
 2. Navigate to Youtube
