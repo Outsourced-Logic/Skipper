@@ -90,7 +90,7 @@ setInterval(clickElement, 1000); // run the clickElement function every 1000 mil
 
 </pre>
 
-<h1>Import Skipper as a Chrome extension</h1>
+<h1>Import Skipper as a personal Chrome extension</h1>
 
 1. Download the latest Skipper release
 2. Unzip the file into a new folder titled 'Skipper'
@@ -100,17 +100,18 @@ setInterval(clickElement, 1000); // run the clickElement function every 1000 mil
 
 Skipper is now ready to search The Seven Seas for 'skip ad' buttons.
 
-<h1>Import Skipper as a Firefox extension</h1>
+<h1>Import Skipper as a temporary Firefox extension</h1>
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Download the Firefox version of Skipper
+2. Unzip the file
+3. Open your Firefox browser
+4. Navigate to "about:debugging#/runtime/this-firefox"
+5. Click the "Load Temporary Add-on" button on the top right side of the screen
+6. Use the pop-up file browser to locate the unzipped Skipper folder that was downloaded in Step 1
+7. Click through the folder and locate the file named "manifest.json"
+8. Click "manifest.json" and click "open"
+9. Skipper is now imported into Firefox
+10. Navigate to YouTube or another supported website
+11. Enjoy videos without unessicary manually interaction with your device
 
-Skipper is now ready to search The Seven Seas for 'skip ad' buttons.
+Skipper is now ready to search The Seven Seas for troublesome buttons.
