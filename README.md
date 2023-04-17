@@ -90,14 +90,27 @@ setInterval(clickElement, 1000); // run the clickElement function every 1000 mil
 
 </pre>
 
-<h1>Import Skipper as a Chrome browser extension</h1>
+<h1>Import Skipper as a Chrome extension</h1>
 
-This extension is only supported in the developer version of Firefox while we work to resolve technical issues impacting the retail version of Firefox. To use Skipper in Firefox, please refer to the demo above.
-
-1. Download Skipper.zip
+1. Download the latest Skipper release
 2. Unzip the file into a new folder titled 'Skipper'
 3. Navigate to the extension management screen of your browser (chrome://extensions/)
 4. Click 'Load unpacked'
 5. Select the unzipped 'Skipper' file
+
+Skipper is now ready to search The Seven Seas for 'skip ad' buttons.
+
+<h1>Import Skipper as a Firefox extension</h1>
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 Skipper is now ready to search The Seven Seas for 'skip ad' buttons.
