@@ -9,7 +9,7 @@ If this repository or my code is not properly optimized, feel free to log an iss
 
 <h1>What is Skipper?</h1>
 
-Skipper is an open-source and creator-friendly browser extension that automatically interacts with 'skip ad' buttons when they are present on a website. Skipper is designed to enhance accessibility for users who use platforms like YouTube by making it easier for users with accesibility needs to minimize interruptions during their viewing experiences.
+Skipper is an open-source and creator-friendly browser extension that automatically interacts with 'skip ad' buttons when they are present on a website. This enhances accessibility on platforms like YouTube by allowing users 
 
 Skipper is not designed, intended, or marketed as an ad-blocker or ad-avoidance tool of any kind. 
 
