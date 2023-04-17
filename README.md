@@ -17,13 +17,13 @@ In the future, we plan to increase our website support and add additonal accessi
 
 <h1>Why Skipper?</h1>
 
-Skipper was developed in response to the lack of suitable ad-management extensions that met my personal needs and expectations. After doing some research, I found a gap in the functionality of common accesibility software and realized that there was potentially a need for this extension and decided to build a proper extension myself.
+Skipper was developed in response to the lack of suitable ad-management extensions that met my personal needs and expectations. After doing some research, I found a gap in the functionality of common accesibility software and realized that there was potentially a need for a proper extension
 
-With this in mind, Skipper aims to tackle various prevalent issues found in existing options by implementing solutions to theese issues in the core design of our extension.
+With this in mind, Skipper aims to tackle various common issues found in existing options by implementing solutions to these issues in our core design.
 
 <h3>Supports creators</h3>
 
-Unlike ad-blockers that take ad revenue from creators and violate the YouTube Terms of Service, Skipper is an accessibility extension that interacts with websites using your browser's built-in features, the same way a normal user would. This ensures that both YouTube and creators are not negatively impacted.
+Unlike ad-blockers that take ad revenue from creators and violate the YouTube Terms of Service, Skipper is an accessibility extension that interacts with websites using your browser's built-in features, the same way a normal user would; this ensures that the website, advertisers and creators are not negatively impacted.
 
 <h3>Free and open-source</h3>
 
@@ -33,9 +33,11 @@ Skipper is committed to always being open-source and having a fully functional f
 
 Skipper is designed with reliability in mind and has been privately tested for over 100 hours before public release. Our small team of beta testers continues to evaluate its performance daily and will strive to adapt our testing around user feedback.
 
-<h3>No unnecessary complexity</h3>
+<h3>Simple and easy to use</h3>
 
-Skipper avoids suspiciously large files and outdated code often found in other open-source extensions. It doesn't require complicated setup or additional third-party downloads.
+Skipper is designed with simplicity in mind, helping users avoid the common problems of outdated or suspicious software that is commonly found in similar extensions.
+
+We're focused on creating a user-friendly approach that does not require extra downloads or complicated steps to set up. This makes it an ideal choice for anyone who is looking for a freee, efficient and easy-to-use solution to enhance their media experiences.
 
 <h1>Check out the demo</h1>
 
@@ -97,7 +99,33 @@ Skipper is now ready to enhance your browsing experience.
 
 Skipper is now ready to enhance your browsing experience.
 
-<h1>Disclaimer: Skipper is NOT an Ad-Blocker</h1>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h6> 
+    
+Copyright 2023, Outsourced-Logic
+   
+README
+   
+This file is part of "Skipper", an open-source and creator friendly browser
+extension that automatically skips ads on YouTube by searching for the "Skip ad"
+button and interacting with the "Skip ad" button when it's present.
+   
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+   
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Disclaimer: Skipper is NOT an Ad-Blocker
 
 Please be advised that Skipper, the browser extension discussed on this website, is not designed, intended, or marketed as an ad-blocker or ad-avoidance extension of any kind. Skipper's primary goal is to enhance the user experience and accessibility of online content by filling a gap not met by common accesibility software, without negatively impacting the creators or platforms involved. It does not prevent advertisements from being displayed, nor does it bypass or interfere with the advertising systems employed by websites or platforms. Instead, it automates the process of skipping ads at the users request, when users have the option to do so, much like a regular user of the platform would.
 
@@ -105,4 +133,4 @@ By using Skipper, users acknowledge and agree that they understand the purpose a
 
 Users are solely responsible for their use of Skipper and any consequences that may arise from the use of the extension. By using Skipper, users agree to indemnify and hold harmless the developers, contributors, and any affiliated parties from any claims, damages, or other liabilities arising from the use or misuse of the extension.
 
-Please ensure that you use Skipper responsibly and in accordance with the terms and conditions of the websites or platforms you visit.
+Please ensure that you use Skipper responsibly and in accordance with the terms and conditions of the websites or platforms you visit.</h6>
