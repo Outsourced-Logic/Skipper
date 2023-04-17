@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Skipper",
-    "version": "1.0.0.1",
+    "version": "1.0.0.3-alpha",
     "description": "Skipper is an open-source and creator friendly extension that automatically skips ads on YouTube when a 'skip ad' button is present.",
     "permissions": ["activeTab", "scripting"],
     "action": {
