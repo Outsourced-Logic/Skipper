@@ -1,6 +1,6 @@
 # Skipper
 
-![Alt text](images/SkipperBanner.png "Title")
+![Alt text](github-resources/SkipperBanner.png "Title")
 
 <h1>Developer notes</h1>
 
