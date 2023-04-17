@@ -33,17 +33,17 @@ Skipper is committed to always being open-source and having a fully functional f
 
 <h3>Skipper is reliable and supported</h3>
 
-Skipper is designed with reliability in mind and has been privately tested for over 100 hours before public release. Our small team of beta testers continues to evaluate its performance daily and will strive to adapt our testing and development around user feedback.
+While other extensions are commonly unreliable, unsupported or outdated, Skipper is designed with reliability in mind and has been privately tested for over 100 hours before public release. Our small team of beta testers continues to evaluate its performance daily by simply using Skipper in their daily life and we will continue to adapt our testing and development around user feedback as Skipper grows.
 
 <h3>Skipper is simple and easy to use</h3>
 
-Skipper is designed with simplicity in mind, helping users avoid the common problems of outdated or suspicious software that is commonly found in similar extensions.
+Skipper is designed with simplicity in mind, helping users avoid the common problems of bloated or suspicious software that is commonly found in similar extensions.
 
-That's why we're focused on creating a user-friendly approach that does not require extra downloads or complicated setup.
+That's why we're focused on creating a user-friendly approach that does not impact your computer performace, does not require extra downloads or complicated setup.
 
-<h1>Check out the deemo!</h1>
+<h1>Check out the demo!</h1>
 
-To demo Skipper locally before downloading, follow these steps:
+Unsure about downloading? You can demo skipper in your browser!
 
 1. Open up a Firefox or Chrome browser window
 2. Navigate to Youtube
