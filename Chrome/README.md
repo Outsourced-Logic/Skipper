@@ -1,10 +1,5 @@
 # Skipper
 
-![Alt text](github-resources/SkipperBanner.png "Title")
-
-<h1>Developer notes</h1>
-This is my first Github project and a majority of the code was generated with pre-trained GPT-4 model as a personal learning exercise. If this repository or code are not properly optimized, feel free to log an issue recommending changes.
-
 <h1>What is Skipper?</h1>
 
 Skipper is an open-source and creator friendly browser extension that automatically skips ads on YouTube when the 'skip ad' button is present.
