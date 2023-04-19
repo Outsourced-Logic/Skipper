@@ -9,9 +9,7 @@ If this repository or my code is not properly optimized, feel free to log an iss
 
 <h1>What is Skipper?</h1>
 
-Skipper is an open-source and creator-friendly browser extension that automatically interacts with 'skip ad' buttons when they are present on a website. This enhances accessibility on platforms like YouTube by allowing users with disibilities to minimize repetitive manual interaction with their device.
-
-Skipper is not designed, intended, or marketed as an ad-blocker or ad-avoidance software of any kind. 
+Skipper is an open-source and creator-friendly browser extension that automatically interacts with 'skip ad' buttons when they are present on a website. This enhances accessibility on platforms like YouTube by allowing users with disibilities to minimize repetitive manual interactions with their device. Skipper is not designed, intended, or marketed as an ad-blocker or ad-avoidance software of any kind. 
 
 In the future, we plan to increase our website support and add additonal accessiblity features to Skipper; this is just the start!
 
@@ -82,7 +80,7 @@ setInterval(clickElement, 1000); // run the clickElement function every 1000 mil
 4. Click 'Load unpacked'
 5. Select the unzipped 'Skipper' file
 
-Skipper is now ready to enhance your browsing experience.
+Skipper is ready to sail!
 
 <h1>Import Skipper as a temporary Firefox extension</h1>
 
@@ -99,7 +97,7 @@ Skipper is now ready to enhance your browsing experience.
 10. Navigate to YouTube or another supported website
 11. Enjoy videos while minimizing interruptions and unnecessary manual interaction with your device
 
-Skipper is now ready to enhance your browsing experience.
+Skipper is ready to sail!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
