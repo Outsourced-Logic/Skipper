@@ -111,8 +111,6 @@ Skipper is ready to set sail!
 
 Skipper is ready to set sail!
 
-*NOTE: After downloading and extracting the most recent Skipper release, you will have a unzipped file titled similarly to "Skipper v1.0.0.0.zip" containing a child folder with the same name. In "Step 5" you must select the child folder that contains the manifest.json and background.js files or the browser will return an error stating that the manifest file was not found.*
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h6> 
