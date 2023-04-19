@@ -88,9 +88,11 @@ setInterval(clickElement, 1000); // run the clickElement function every 1000 mil
 2. Unzip the file
 3. Navigate to the extension management screen of your browser (chrome://extensions/)
 4. Click 'Load unpacked'
-5. Select the unzipped 'Skipper' file
+5. Navigate to the unzipped 'Skipper' file
 
-Skipper is ready to sail!
+Skipper is ready to set sail!
+
+*NOTE: After downloading and extracting the most recent Skipper release, you will have a unzipped file titled similarly to "Skipper v1.0.0.0.zip" containing a child folder with the same name. In "Step 5" you must select the child folder that contains the manifest.json and background.js files or the browser will return an error stating that the manifest file was not found.*
 
 <h1>Import Skipper as a temporary Firefox extension</h1>
 
@@ -107,7 +109,9 @@ Skipper is ready to sail!
 10. Navigate to YouTube or another supported website
 11. Enjoy videos while minimizing interruptions and unnecessary manual interaction with your device
 
-Skipper is ready to sail!
+Skipper is ready to set sail!
+
+*NOTE: After downloading and extracting the most recent Skipper release, you will have a unzipped file titled similarly to "Skipper v1.0.0.0.zip" containing a child folder with the same name. In "Step 5" you must select the child folder that contains the manifest.json and background.js files or the browser will return an error stating that the manifest file was not found.*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
