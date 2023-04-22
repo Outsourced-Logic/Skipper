@@ -9,19 +9,17 @@ If this repository or my code is not properly optimized, feel free to log an iss
 
 <h1>What is Skipper?</h1>
 
-Skipper is an open-source and creator-friendly browser extension that automatically looks for and interacts with 'skip ad' buttons on websites.
+Skipper is an open-source and creator-friendly browser extension that automatically looks for and interacts with 'skip ad' buttons, enhancing accessibility on platforms like YouTube by allowing users with disabilities to minimize repetitive manual interactions.
 
-This enhances accessibility on platforms like YouTube by allowing users with disabilities to minimize repetitive manual interactions, a feature that is intentionally lacking in most paid accesibility software that we researched.
+Skipper was developed in response to the lack of suitable ad-management extensions that met my personal needs and expectations. After doing some research, I found that the issue I was dealing with was shared by users of common accesibility software due to a gap in functionality that made interaction with specific buttons difficult. Due to this issue, many users download ad-blockers, although this brings a new handful of issues with it!
 
-Skipper was developed in response to the lack of suitable ad-management extensions that met my personal needs and expectations. After doing some research, I found that the issue I was dealing with was shared by users of common accesibility software due to an intentional gap in the design of the software. Due to this issue, many users download ad-blockers, although this brings a new handful of issues with it!
-
-With this in mind, Skipper aims to tackle various common issues found in existing options by implementing solutions to these issues in our core design.
+With this in mind, Skipper aims to tackle various common issues found in existing ad-management options by implementing solutions to these issues in our core design.
 
 Skipper is not designed, intended, or marketed as an ad-blocker of any kind.
 
 <h1>Why Skipper?</h1>
 
-Do you use accessibliity software that doesn't interact with "skip" buttons on ads?
+Do you use accessibliity software that makes it difficult to interact with "skip" buttons on ads?
 
 Do you like to turn on YouTube content like podcasts, while completing other tasks?
 
