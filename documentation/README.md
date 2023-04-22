@@ -1,7 +1,3 @@
-# Skipper
-
-![Alt text](SkipperBanner.png "Title")
-
 <h1>Developer notes</h1>
 
 This is my first Github project and a majority of the code was generated with guidance from GPT-4 as a personal learning exercise. 
