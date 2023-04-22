@@ -11,7 +11,7 @@ If this repository or my code is not properly optimized, feel free to log an iss
 
 Skipper is an open-source and creator-friendly browser extension that automatically looks for and interacts with 'skip ad' buttons, enhancing accessibility on platforms like YouTube by allowing users with disabilities to minimize repetitive manual interactions.
 
-Skipper was developed in response to the lack of suitable ad-management extensions that met my personal needs and expectations. After doing some research, I found that the issue I was dealing with was shared by users of common accesibility software due to a gap in functionality that made interaction with specific buttons difficult. Due to this issue, many users download ad-blockers, although this brings a new handful of issues with it!
+Skipper was developed in response to the lack of suitable ad-management extensions that met my personal needs and expectations. After doing some research, I found that the issue I was dealing with was shared by users of common accessibility software due to a gap in functionality that made interaction with specific buttons difficult. Due to this issue, many users download ad-blockers, although this brings a new handful of issues with it!
 
 With this in mind, Skipper aims to tackle various common issues found in existing ad-management options by implementing solutions to these issues in our core design.
 
@@ -19,7 +19,7 @@ Skipper is not designed, intended, or marketed as an ad-blocker of any kind.
 
 <h1>Why Skipper?</h1>
 
-Do you use accessibliity software that makes it difficult to interact with "skip" buttons on ads?
+Do you use accessibility software that makes it difficult to interact with "skip" buttons on ads?
 
 Do you like to turn on YouTube content like podcasts, while completing other tasks?
 
@@ -33,7 +33,7 @@ Unlike ad-blockers that take ad revenue from creators and violate the YouTube Te
 
 <h3>Skipper is free and open-source</h3>
 
-The other extensions on the market cost money or trick you into downloading them before asking you to pay for basic functionality, while offering very little in return. Additonally, it's unclear if this software is safe to download, as the publishers do not have a credible brand and the software is not open-source.
+The other extensions on the market cost money or trick you into downloading them before asking you to pay for basic functionality, while offering very little in return. Additionally, it's unclear if this software is safe to download, as the publishers do not have a credible brand and the software is not open-source.
 
 Skipper is committed to always being open-source and having a fully functional free version. This eliminates concerns related to handling of payment information, the safety of software downloads, and the functionality of the extension before downloading.
 
@@ -45,14 +45,14 @@ While other extensions are commonly unreliable, unsupported or outdated, Skipper
 
 Skipper is designed with simplicity in mind, helping users avoid the common problems of bloated or suspicious software that is commonly found in similar extensions.
 
-That's why we're focused on creating a user-friendly approach that does not impact your computer performace, does not require extra downloads or complicated setup.
+That's why we're focused on creating a user-friendly approach that does not impact your computer performance, does not require extra downloads or complicated setup.
 
 <h1>Check out the demo!</h1>
 
 Unsure about downloading? You can demo skipper in your browser!
 
 1. Open up a Firefox or Chrome browser window
-2. Navigate to Youtube
+2. Navigate to YouTube
 3. Press CTRL+SHIFT+J or F12 to open the browser's developer console
 4. Copy the demo script below
 5. Paste the script into the console
@@ -121,4 +121,4 @@ You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-Disclaimer: Please be advised that Skipper, the browser extension discussed on this website, is not designed, intended, or marketed as ad-blocker software of any kind. Skipper's primary goal is to enhance the user experience and accessibility of online content by filling a gap not met by common accesibility software, without negatively impacting the creators or platforms involved. It does not prevent advertisements from being displayed, nor does it bypass or interfere with the advertising systems employed by websites or platforms. Instead, it automates the process of skipping ads at the users request, when users have the option to do so, much like a regular user of the platform would. By using Skipper, users acknowledge and agree that they understand the purpose and functionality of the extension, and that they will not use it for any purpose that is in violation of the terms of service of the websites or platforms they visit. Users are solely responsible for their use of Skipper and any consequences that may arise from the use of the extension. By using Skipper, users agree to indemnify and hold harmless the developers, contributors, and any affiliated parties from any claims, damages, or other liabilities arising from the use or misuse of the extension. Please ensure that you use Skipper responsibly and in accordance with the terms and conditions of the websites or platforms you visit.</h6>
+Disclaimer: Please be advised that Skipper, the browser extension discussed on this website, is not designed, intended, or marketed as ad-blocker software of any kind. Skipper's primary goal is to enhance the user experience and accessibility of online content by filling a gap not met by common accessibility software, without negatively impacting the creators or platforms involved. It does not prevent advertisements from being displayed, nor does it bypass or interfere with the advertising systems employed by websites or platforms. Instead, it automates the process of skipping ads at the users request, when users have the option to do so, much like a regular user of the platform would. By using Skipper, users acknowledge and agree that they understand the purpose and functionality of the extension, and that they will not use it for any purpose that is in violation of the terms of service of the websites or platforms they visit. Users are solely responsible for their use of Skipper and any consequences that may arise from the use of the extension. By using Skipper, users agree to indemnify and hold harmless the developers, contributors, and any affiliated parties from any claims, damages, or other liabilities arising from the use or misuse of the extension. Please ensure that you use Skipper responsibly and in accordance with the terms and conditions of the websites or platforms you visit.</h6>
