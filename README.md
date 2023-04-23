@@ -98,7 +98,7 @@ Skipper is ready to set sail!
 1. Download the most recent release of Skipper
 2. Unzip the folder
 3. Open your Firefox browser
-4. Navigate to the URL "about:debugging#/runtime/this-firefox" or the extension management screen
+4. Navigate to the URL "about:debugging#/runtime/this-firefox"
 5. Click the "Load Temporary Add-on" button at the top right side of the screen
 6. Use the pop-up file browser to locate the unzipped Skipper folder that was downloaded in Step 1
 7. Click through the folder and locate the file named "manifest.json"
