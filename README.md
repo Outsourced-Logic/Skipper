@@ -2,6 +2,13 @@
 
 ![Alt text](github-resources/SkipperBanner.png "Title")
 
+<h1>Download here</h1>
+
+Firefox:
+https://addons.mozilla.org/en-US/firefox/addon/the-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
+Chrome: Pending review
+
 <h1>Developer notes</h1>
 
 This is my first Github project and a majority of the code was generated with guidance from GPT-4 as a personal learning exercise. 
