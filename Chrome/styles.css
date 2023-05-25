@@ -1,0 +1,78 @@
+/* Styling for our logo */
+.logo {
+    width: 128px;
+    height: 128px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Styling for our title container */
+#title-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+}
+
+/* Styling for our title */
+#title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Styling for our status indicator */
+.status-indicator {
+    height: 10px;
+    width: 10px;
+    background-color: #FF0000;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* Styling for our tabs */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Styling for our tab buttons */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change the color when we hover over a tab button */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Change the color of the active tab button */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Styling for our tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+/* Styling for our time options */
+.time-option-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
