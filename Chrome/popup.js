@@ -1,11 +1,9 @@
-// Fetch the 'status' div and 'toggle' button elements
+// Fetch the 'status' div element
 const statusDiv = document.getElementById('status');
-const toggleButton = document.getElementById('toggle');
 
-// Update the status display and the toggle button text
+// Update the status display
 function updateUI(isEnabled) {
   statusDiv.textContent = `Status: ${isEnabled ? 'Enabled' : 'Disabled'}`;
-  toggleButton.textContent = `${isEnabled ? 'Disable' : 'Enable'}`;
 }
 
 // Fetch and display the current status of Skipper when the popup is opened
