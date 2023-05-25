@@ -8,44 +8,51 @@
       tab.url &&
       tab.url.includes('https://www.youtube.com/')
     ) {
-      // Execute a script in the updated tab
-      chrome.scripting.executeScript(
-        {
-          target: { tabId },
-          func: function () {
-            if (!window.myExtensionScriptInjected) {
-              // Set a flag to indicate that the script has been injected
-              window.myExtensionScriptInjected = true;
+      // Fetch the 'enabled' value from storage
+      chrome.storage.sync.get('enabled', function(data) {
+        const enabled = data.enabled;
+        // Only execute the script if the 'enabled' value is true
+        if (enabled) {
+          // Execute a script in the updated tab
+          chrome.scripting.executeScript(
+            {
+              target: { tabId },
+              func: function () {
+                if (!window.myExtensionScriptInjected) {
+                  // Set a flag to indicate that the script has been injected
+                  window.myExtensionScriptInjected = true;
 
-              // Define a function to click an element
-              function clickElement() {
-                // Find the 'Skip' button element
-                var element = document.querySelector(
-                  '.ytp-ad-skip-button.ytp-button'
-                );
-                // Check if the element exists and is visible
-                if (element && element.offsetParent !== null) {
-                  // Click the element
-                  element.click();
-                } else {
-                  // Log a message if the element is not found
-                  console.log(
-                    "Skipper is searching The Seven Seas for the 'Skip' button ⛵"
-                  );
+                  // Define a function to click an element
+                  function clickElement() {
+                    // Find the 'Skip' button element
+                    var element = document.querySelector(
+                      '.ytp-ad-skip-button.ytp-button'
+                    );
+                    // Check if the element exists and is visible
+                    if (element && element.offsetParent !== null) {
+                      // Click the element
+                      element.click();
+                    } else {
+                      // Log a message if the element is not found
+                      console.log(
+                        "Skipper is searching The Seven Seas for the 'Skip' button ⛵"
+                      );
+                    }
+                  }
+
+                  // Call the clickElement function every 1000 milliseconds
+                  setInterval(clickElement, 1000);
                 }
+              },
+            },
+            () => {
+              if (chrome.runtime.lastError) {
+                console.error(chrome.runtime.lastError.message);
               }
-
-              // Call the clickElement function every 1000 milliseconds
-              setInterval(clickElement, 1000);
             }
-          },
-        },
-        () => {
-          if (chrome.runtime.lastError) {
-            console.error(chrome.runtime.lastError.message);
-          }
+          );
         }
-      );
+      });
     }
   });
 })();
