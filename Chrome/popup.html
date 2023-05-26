@@ -2,36 +2,25 @@
 <html>
 <head>
     <title>Skipper</title>
-    <!-- Link to the css file -->
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <!-- Display the logo -->
     <img src="skipper128.png" class="logo" alt="Skipper Logo">
-
-    <!-- Set up our title and switch -->
     <div id="title-container">
         <div id="title">
-            <!-- Display our status indicator -->
             <span class="status-indicator" id="indicator"></span>
-            <!-- Display the title -->
             <span>Skipper</span>
         </div>
-        <!-- Set up our switch -->
         <label class="switch">
             <input type="checkbox" id="toggle-switch">
             <span class="slider round"></span>
         </label>
     </div>
-
-    <!-- Set up our tabs -->
     <div class="tab">
         <button class="tablinks" id="btn-options">Options</button>
         <button class="tablinks" id="btn-site-list">Site List</button>
         <button class="tablinks" id="btn-more">More</button>
     </div>
-
-    <!-- Set up our tab contents -->
     <div id="Options" class="tabcontent">
         <h3>Skip after:</h3>
         <div class="time-option-container">
@@ -48,5 +37,7 @@
         <h3>More</h3>
         <p>Discover more features.</p>
     </div>
+
+    <script src="popup.js"></script>
 </body>
 </html>
