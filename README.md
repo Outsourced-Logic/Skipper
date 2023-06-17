@@ -7,7 +7,8 @@
 Firefox:
 https://addons.mozilla.org/en-US/firefox/addon/the-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 
-Chrome: Pending review
+Chrome:
+https://chrome.google.com/webstore/detail/skipper/eebmedlefmgminllkhpefflacofnlglb
 
 <h1>Developer notes</h1>
 
